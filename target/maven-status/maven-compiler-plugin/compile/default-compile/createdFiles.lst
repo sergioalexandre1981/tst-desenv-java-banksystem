@@ -1,0 +1,8 @@
+com\teste\banksystem\clock\App.class
+com\teste\banksystem\clock\controllers\IndexController.class
+com\teste\banksystem\clock\controllers\ClockController.class
+com\teste\banksystem\clock\util\Utilities.class
+com\teste\banksystem\clock\config\CacheConfiguration.class
+com\teste\banksystem\clock\dto\AngleContract.class
+com\teste\banksystem\clock\controllers\AngleController.class
+com\teste\banksystem\clock\dto\Clock.class
